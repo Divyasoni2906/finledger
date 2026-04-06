@@ -1,0 +1,7 @@
+{
+  "name": "finledger",
+  "scripts": {
+    "build": "cd finance-frontend && npm install && npm run build && cd ../finance-backend && npm install",
+    "start": "cd finance-backend && node src/utils/seed.js && node src/app.js"
+  }
+}
