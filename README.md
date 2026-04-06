@@ -11,6 +11,15 @@ A full-stack finance dashboard with role-based access control.
 FinLedger allows users to manage and analyze financial data based on roles (Viewer, Analyst, Admin). It includes authentication, transaction management, and dashboard analytics.
 
 ---
+<img width="1366" height="619" alt="Screenshot (310)" src="https://github.com/user-attachments/assets/b995ad14-69cb-4895-a5f6-372d8477a33a" />
+For Admin:
+<img width="1366" height="647" alt="Screenshot (311)" src="https://github.com/user-attachments/assets/049556ba-1019-4642-b8b2-2adc38bddbd5" />
+<img width="1366" height="639" alt="Screenshot (312)" src="https://github.com/user-attachments/assets/4858a35f-66c9-413b-a45e-dbf0ccb74cb7" />
+<img width="1366" height="648" alt="Screenshot (313)" src="https://github.com/user-attachments/assets/f6f64dc6-df4d-478e-bf37-226842333f71" />
+
+For viewer:
+<img width="1366" height="608" alt="Screenshot (314)" src="https://github.com/user-attachments/assets/2ce33e97-6ee7-4aeb-9baa-d2c8102a2cde" />
+
 
 ## Tech Stack
 
